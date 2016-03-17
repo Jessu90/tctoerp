@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><ProductDataeXchangePackage originatedByContactUniqueIdentifier=""
+                                                                  originatedByContactName=""
+                                                                  dataSource="Tc Engineering"
+                                                                  thisDocumentGenerationDateTime="2016-02-23-09:04:11"
+                                                                  thisDocumentModificationDateTime="2016-02-23-09:04:11"
+                                                                  thisDocumentIdentifier="N10002">
+	<Items>
+		<Item itemUniqueIdentifier="074692_B"
+		      itemIdentifier="074692"
+		      globalLifeCyclePhaseCode="Production"
+		      globalProductTypeCode=""
+		      revisionIdentifier="B"
+		      globalProductUnitOfMeasureCode="pcs"
+		      isSerializationRequired="No"
+		      isCertificationRequired="No"
+		      isTopLevel="Yes">
+			<AdditionalAttributes groupLabel="TC Attributes">
+				<AdditionalAttribute name="item_id"
+				                     value="074692"/>
+				<AdditionalAttribute name="sea3Description"
+				                     value="Mechanical component"/>
+				<AdditionalAttribute name="sea3Product"
+				                     value="Sales product"/>
+				<AdditionalAttribute name="objecttype"
+				                     value="Sea3SeAMK_ItemRevision"/>
+				<AdditionalAttribute name="object_name"
+				                     value="ST6 XML export test item 1"/>
+				<AdditionalAttribute name="last_mod_date"
+				                     value="2016-02-22T16:03:08"/>
+				<AdditionalAttribute name="sea3ChangeDescription"
+				                     value="Change description."/>
+				<AdditionalAttribute name="sea3ManufacturerOrSupplier"
+				                     value="Toimittaja"/>
+				<AdditionalAttribute name="sea3Mass"
+				                     value="3.6131947"/>
+				<AdditionalAttribute name="sea3MatOrStdOrCode"
+				                     value="Materialcode"/>
+				<AdditionalAttribute name="sea3RelatedTo"
+				                     value="Related_to"/>
+				<AdditionalAttribute name="sea3SizeOfMaterial"
+				                     value="Materialsize"/>
+				<AdditionalAttribute name="sea3info"
+				                     value="Info"/>
+				<AdditionalAttribute name="sea3Spare_part"
+				                     value="True"/>
+				<AdditionalAttribute name="object_desc"
+				                     value=""/>
+				<AdditionalAttribute name="sea3Designer"
+				                     value="k0008452"/>
+				<AdditionalAttribute name="sea3CAD_Material"
+				                     value="Gold"/>
+				<AdditionalAttribute name="bl_uom"
+				                     value="pcs"/>
+				<AdditionalAttribute name="uom_tag"
+				                     value="pcs"/>
+			</AdditionalAttributes>
+		</Item>
+	</Items>
+	<Contacts>
+		<Contact isTopLevel="No"
+		         globalPartnerClassificationCodeOther="Originator"
+		         globalPartnerClassificationCode="Other"
+		         emailAddress=""
+		         contactName=""
+		         contactUniqueIdentifier=""
+		         contactIdentifier=""/>
+	</Contacts>
+</ProductDataeXchangePackage>

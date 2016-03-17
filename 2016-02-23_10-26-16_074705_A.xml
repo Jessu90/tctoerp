@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><ProductDataeXchangePackage originatedByContactUniqueIdentifier="" originatedByContactName="" dataSource="Tc Engineering" thisDocumentGenerationDateTime="2016-02-23-10:26:14" thisDocumentModificationDateTime="2016-02-23-10:26:14" thisDocumentIdentifier="N10002">
+<Items>
+<Item itemUniqueIdentifier="074705_A" itemIdentifier="074705" globalLifeCyclePhaseCode="Production" globalProductTypeCode="" revisionIdentifier="A" globalProductUnitOfMeasureCode="pcs" isSerializationRequired="No" isCertificationRequired="No" isTopLevel="Yes">
+<AdditionalAttributes groupLabel="TC Attributes">
+<AdditionalAttribute name="item_id" value="074705"/>
+<AdditionalAttribute name="sea3Description" value="Mechanical component"/>
+<AdditionalAttribute name="sea3Product" value="Sales product"/>
+<AdditionalAttribute name="objecttype" value="Sea3SeAMK_ItemRevision"/>
+<AdditionalAttribute name="object_name" value="ST6 XML export test item 2"/>
+<AdditionalAttribute name="last_mod_date" value="2016-02-23T10:25:11"/>
+<AdditionalAttribute name="sea3ChangeDescription" value=""/>
+<AdditionalAttribute name="sea3ManufacturerOrSupplier" value="Toimittaja"/>
+<AdditionalAttribute name="sea3Mass" value="3.6131947"/>
+<AdditionalAttribute name="sea3MatOrStdOrCode" value="Materialcode"/>
+<AdditionalAttribute name="sea3RelatedTo" value="Related_to"/>
+<AdditionalAttribute name="sea3SizeOfMaterial" value="Materialsize"/>
+<AdditionalAttribute name="sea3info" value="Info"/>
+<AdditionalAttribute name="sea3Spare_part" value="False"/>
+<AdditionalAttribute name="object_desc" value=""/>
+<AdditionalAttribute name="sea3Designer" value="k0008452"/>
+<AdditionalAttribute name="sea3CAD_Material" value="Gold"/>
+<AdditionalAttribute name="bl_uom" value="pcs"/>
+<AdditionalAttribute name="uom_tag" value="pcs"/>
+</AdditionalAttributes>
+</Item>
+</Items>
+<Contacts>
+<Contact isTopLevel="No" globalPartnerClassificationCodeOther="Originator" globalPartnerClassificationCode="Other" emailAddress="" contactName="" contactUniqueIdentifier="" contactIdentifier=""/>
+</Contacts>
+</ProductDataeXchangePackage>
